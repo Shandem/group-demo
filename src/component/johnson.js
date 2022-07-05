@@ -1,5 +1,5 @@
 import React from "react";
 
 export const johnson = () => {
-  return <div>johnson</div>;
+  return <h1>johnson</h1>;
 };
